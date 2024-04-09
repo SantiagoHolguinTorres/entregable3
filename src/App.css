@@ -1,0 +1,15 @@
+.app{
+    background-color: #073138;
+    color: white;
+}
+.app__title{
+    padding-bottom: 1.5em;
+    
+}
+
+.container-resident{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1.5em;
+}
